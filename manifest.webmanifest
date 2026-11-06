@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "La nostra cucina · Ricette e turni",
+  "short_name": "La nostra cucina",
+  "description": "Ricette, menu stagionali, turni cucina e servizio, spesa della comunità.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#23845f",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
